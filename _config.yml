@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: orangekilroy.github.io
 description: Created 10/21/2025
+defaults:
+  - scope:
+      path: "" # empty string for all files
+      type: "pages"
+    values:
+      layout: "default"
